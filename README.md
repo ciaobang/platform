@@ -44,9 +44,9 @@ At Ciao!, our foundation rests on these key principles:
 
 # Platform
 
-At Ciao!, we’re crafting a platform that transforms how you interact with knowledge. The community is committed to enabling seamless data extraction and intelligent insights from documents and spreadsheets. Our goal is to empower projects with advanced AI-driven tools that amplify creativity and efficiency.
+At Ciao!, we’re crafting a platform that transforms how you interact with knowledge. Our goal is to empower projects with advanced AI-driven tools that amplify creativity and efficiency.
 
-Stay tuned...
+The code here is this repo a placeholder. Stay tuned...
 
 # Contact
 We’re always excited to hear from our community and partners! If you have any questions or would like to collaborate, feel free to get in touch:
